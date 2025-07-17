@@ -1,0 +1,10 @@
+{
+	"name": "gaya/drupal-lazysizes",
+	"version": "3.5.1",
+	"description": "Drupal Library, fork of afarkas/lazysizes.",
+	"license": "MIT",
+	"type": "drupal-library",
+        "extra": {
+                "installer-name": "lazysizes"
+        }
+}
